@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "name": "dirt_ball",
+      "rolls": 1,
+      "entries": [
+        {
+          "weight": 1,
+          "type": "item",
+          "name": "fmltutor:dirt_ball",
+          "functions": [{ "function": "set_count", "count": { "min": 2, "max": 4 } }]
+        }
+      ]
+    },
+    {
+      "name": "compressed_dirt",
+      "rolls": 1,
+      "conditions": [
+        { "condition": "killed_by_player" },
+        { "condition": "random_chance_with_looting", "looting_multiplier": 0.03, "chance": 0.1 }
+      ],
+      "entries": [
+        {
+          "weight": 1,
+          "type": "item",
+          "name": "fmltutor:compressed_dirt"
+        }
+      ]
+    }
+  ]
+}

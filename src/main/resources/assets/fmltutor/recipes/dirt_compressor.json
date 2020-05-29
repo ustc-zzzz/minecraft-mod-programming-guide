@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "X%X",
+    "X@X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:piston"
+    },
+    "%": {
+      "item": "minecraft:glass_pane"
+    },
+    "@": {
+      "item": "fmltutor:compressed_dirt"
+    },
+    "X": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "fmltutor:dirt_compressor"
+  }
+}

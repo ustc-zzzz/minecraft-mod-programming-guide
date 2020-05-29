@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fmltutor",
+  "name": "FMLTutor",
+  "description": "Minecraft Forge & FML Mod Tutorial.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zzzz"],
+  "credits": "The author, zzzz, and those who are now seated in front of the book.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

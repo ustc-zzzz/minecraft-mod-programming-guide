@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "fmltutor:dirt_ball"
+    }
+  },
+  "result": {
+    "item": "fmltutor:dirt_pickaxe"
+  }
+}

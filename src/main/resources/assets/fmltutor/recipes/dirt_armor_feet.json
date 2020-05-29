@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "fmltutor:dirt_ball"
+    }
+  },
+  "result": {
+    "item": "fmltutor:dirt_armor_feet"
+  }
+}
